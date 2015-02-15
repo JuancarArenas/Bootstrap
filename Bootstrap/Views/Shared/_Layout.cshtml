@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    @*<title>@ViewBag.Title</title>*@
+    @Scripts.Render("~/bundles/modernizr")
+
+    <script src="~/Scripts/bootstrap.js"></script>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @RenderSection("scripts", required: false)
+
+    <div class="container">
+        <div class="row">
+            <p>Header</p>
+        </div>
+        <div class="row">
+            <div class="col-md-3">Uno</div>
+            <div class="col-md-6">@RenderBody()</div>
+            <div class="col-md-3">Tres</div>
+        </div>
+        <div class="row">
+            <p>footer</p>
+        </div>
+    </div>
+</body>
+</html>
