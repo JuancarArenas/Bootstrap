@@ -22,3 +22,27 @@ D:\Juankar\Development\Bootstrap\Bootstrap\bin\System.Web.WebPages.Razor.xml
 D:\Juankar\Development\Bootstrap\Bootstrap\obj\Debug\Bootstrap.csprojResolveAssemblyReference.cache
 D:\Juankar\Development\Bootstrap\Bootstrap\obj\Debug\Bootstrap.dll
 D:\Juankar\Development\Bootstrap\Bootstrap\obj\Debug\Bootstrap.pdb
+D:\Juankar\Development\Bootstrap GIT Repository\Bootstrap\Bootstrap\bin\Bootstrap.dll
+D:\Juankar\Development\Bootstrap GIT Repository\Bootstrap\Bootstrap\bin\Bootstrap.pdb
+D:\Juankar\Development\Bootstrap GIT Repository\Bootstrap\Bootstrap\bin\Antlr3.Runtime.dll
+D:\Juankar\Development\Bootstrap GIT Repository\Bootstrap\Bootstrap\bin\EntityFramework.dll
+D:\Juankar\Development\Bootstrap GIT Repository\Bootstrap\Bootstrap\bin\Microsoft.Web.Infrastructure.dll
+D:\Juankar\Development\Bootstrap GIT Repository\Bootstrap\Bootstrap\bin\Newtonsoft.Json.dll
+D:\Juankar\Development\Bootstrap GIT Repository\Bootstrap\Bootstrap\bin\System.Web.Mvc.dll
+D:\Juankar\Development\Bootstrap GIT Repository\Bootstrap\Bootstrap\bin\System.Web.Optimization.dll
+D:\Juankar\Development\Bootstrap GIT Repository\Bootstrap\Bootstrap\bin\System.Web.Providers.dll
+D:\Juankar\Development\Bootstrap GIT Repository\Bootstrap\Bootstrap\bin\System.Web.Razor.dll
+D:\Juankar\Development\Bootstrap GIT Repository\Bootstrap\Bootstrap\bin\System.Web.WebPages.Deployment.dll
+D:\Juankar\Development\Bootstrap GIT Repository\Bootstrap\Bootstrap\bin\System.Web.WebPages.dll
+D:\Juankar\Development\Bootstrap GIT Repository\Bootstrap\Bootstrap\bin\System.Web.WebPages.Razor.dll
+D:\Juankar\Development\Bootstrap GIT Repository\Bootstrap\Bootstrap\bin\WebGrease.dll
+D:\Juankar\Development\Bootstrap GIT Repository\Bootstrap\Bootstrap\bin\EntityFramework.xml
+D:\Juankar\Development\Bootstrap GIT Repository\Bootstrap\Bootstrap\bin\Newtonsoft.Json.xml
+D:\Juankar\Development\Bootstrap GIT Repository\Bootstrap\Bootstrap\bin\System.Web.Mvc.xml
+D:\Juankar\Development\Bootstrap GIT Repository\Bootstrap\Bootstrap\bin\System.Web.Razor.xml
+D:\Juankar\Development\Bootstrap GIT Repository\Bootstrap\Bootstrap\bin\System.Web.WebPages.xml
+D:\Juankar\Development\Bootstrap GIT Repository\Bootstrap\Bootstrap\bin\System.Web.WebPages.Deployment.xml
+D:\Juankar\Development\Bootstrap GIT Repository\Bootstrap\Bootstrap\bin\System.Web.WebPages.Razor.xml
+D:\Juankar\Development\Bootstrap GIT Repository\Bootstrap\Bootstrap\obj\Debug\Bootstrap.csprojResolveAssemblyReference.cache
+D:\Juankar\Development\Bootstrap GIT Repository\Bootstrap\Bootstrap\obj\Debug\Bootstrap.dll
+D:\Juankar\Development\Bootstrap GIT Repository\Bootstrap\Bootstrap\obj\Debug\Bootstrap.pdb
